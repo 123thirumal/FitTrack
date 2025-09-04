@@ -31,7 +31,7 @@ The project also includes a **Java-based server** for controlling PowerPoint pre
 *Tracks activity and syncs to Firebase*
 
 ### 🧘 Quick Meditate Timer
-![Meditate](docs/images/meditate.png)  
+![Meditate](docs/images/quick-meditate.png)  
 *Simple mindfulness timer for short breaks*
 
 ---
